@@ -17,7 +17,7 @@
 
 :information_source: :information_source: **_Languages and Tools:_**
 
-[![Github Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white&link=)]()
+[![Github Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white&link=https://kotlinlang.org/ )]()
 [![Github Badge](	https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&link=)]()
 [![Github Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=)]()
 [![Github Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&link=)]()
